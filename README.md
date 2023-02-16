@@ -2,3 +2,17 @@
 
 Hey there! I'm HaGaTa_, a student in a Japanese University.
 
+- 📖 My favorite programming languages **Python, C++**
+- 🌱 I’m currently learning **HTML, Python, React, Docker**
+- ⚡️ Fun fact: baseball⚾, dog🐕
+
+
+
+<div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hagatasdelus&show_icons=true&theme=tokyonight&count_private=true"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=hagatasdelus&count_private=true&show_icons=true&theme=tokyonight&line_height=40" />
+</a>
+</div>

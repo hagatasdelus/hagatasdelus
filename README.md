@@ -4,9 +4,7 @@ Hey there! I'm HaGaTa_, a student in a Japanese University.
 
 - 📖 My favorite programming languages **Python, C++**
 - 🌱 I’m currently learning **HTML, Python, React, Docker**
-- ⚡️ Fun fact: baseball⚾, dog🐕
-
-
+- ⚡️ Fun fact: baseball⚾, tennis🎾, dog🐕
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">

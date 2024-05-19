@@ -2,9 +2,8 @@
 
 Hey there! I'm HaGaTa_, a student in a Japanese University.
 
-- 📖 My favorite programming languages **Python, C++**
+- 📖 My favorite programming languages **Python**
 - 🌱 I’m currently learning **Python, React, Next.js, Docker, Swift**
-- ⚡️ Fun fact: baseball⚾, tennis🎾, Reading📕, Watching the VALORANT competition scene
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">

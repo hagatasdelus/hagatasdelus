@@ -7,6 +7,7 @@ Hey there! I'm HaGaTa_, a student in a Japanese University.
 <br>
 
 - <a href="https://github.com/hagatasdelus/KanjiRush.git">KanjiRush</a>
+- <a href="https://github.com/hagatasdelus/ClipSpotter_for_personal.git">ClipSpotter For Personal</a>
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">

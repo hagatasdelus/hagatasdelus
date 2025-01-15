@@ -3,11 +3,8 @@
 Hey there! I'm HaGaTa_, a student in a Japanese University.
 
 - 📖 My favorite programming languages **Python**
-- 🌱 I’m currently learning **Python, React, Next.js, Docker, Swift**
+- 🌱 I’m currently learning **Python, React, Next.js, Swift**
 <br>
-
-- <a href="https://github.com/hagatasdelus/KanjiRush.git">KanjiRush</a>
-- <a href="https://github.com/hagatasdelus/ClipSpotter_for_personal.git">ClipSpotter For Personal</a>
 
 <div>
 <a href="https://github.com/anuraghazra/github-readme-stats">
